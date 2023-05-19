@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: rgb(211, 43, 226);
+}
+p{
+    color: dodgerblue;
+}
+.un{
+    text-decoration: underline;
+}
+div{
+    border: 3px double grey;
+    padding: 7px;
+}
+body{
+    width: 40%;
+    margin-left: 550px;
+}
